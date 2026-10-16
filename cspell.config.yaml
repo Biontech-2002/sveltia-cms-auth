@@ -13,6 +13,7 @@ files:
   - "**/*.{css,js,json,jsonc,html,md,scss,svelte,svg,yaml,yml,xml}"
 useGitignore: true
 ignorePaths:
+  - daily-planner/**
   - pnpm-lock.yaml
 words:
   - cooldown
